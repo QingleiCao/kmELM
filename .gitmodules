@@ -1,0 +1,4 @@
+[submodule "E3SM"]
+	path = E3SM
+	url = git@github.com:daliwang/E3SM.git
+    branch = master
